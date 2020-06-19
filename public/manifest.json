@@ -3,12 +3,12 @@
   "short_name": "Budget",
   "icons": [
     {
-      "src": "/public/icons/icon-192x192.png",
+      "src": "/icons/icon-192x192.png",
       "sizes": "72x72",
       "type": "image/png"
     },
     {
-      "src": "/public/icons/icon-512x512.png",
+      "src": "/icons/icon-512x512.png",
       "sizes": "96x96",
       "type": "image/png"
     }
