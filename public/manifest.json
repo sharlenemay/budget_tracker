@@ -1,8 +1,6 @@
 {
   "name": "Budget Tracker",
   "short_name": "Budget",
-  "start_url": "http://budget-tracka.herokuapp.com/",
-  "orientation": "any",
   "icons": [
     {
       "src": "/public/icons/icon-192x192.png",
